@@ -1,0 +1,108 @@
+2022-03-31/23:28:45		prediction_function is started!!
+2022-03-31/23:28:45		Error Occurred in prediction function
+2022-03-31/23:33:52		prediction_function is started!!
+2022-03-31/23:33:52		Error Occurred in prediction function
+2022-04-01/08:22:24		prediction_function is started!!
+2022-04-01/08:22:24		Error Occurred in prediction function
+2022-04-01/11:27:10		prediction_function is started!!
+2022-04-01/11:27:10		Error Occurred in prediction function
+2022-04-01/11:29:40		prediction_function is started!!
+2022-04-01/11:29:40		Error Occurred in prediction function
+2022-04-01/11:32:51		prediction_function is started!!
+2022-04-01/11:32:51		Error Occurred in prediction function
+2022-04-02/08:17:42		training_model is started!!
+2022-04-02/08:17:43		training_model function done successfully
+2022-04-02/17:41:48		prediction function is starter!!
+2022-04-02/17:41:48		prediction function is done successfully
+2022-04-02/17:46:31		prediction function is starter!!
+2022-04-02/17:46:31		prediction function is done successfully
+2022-04-02/17:52:35		prediction function is starter!!
+2022-04-02/17:52:35		prediction function is done successfully
+2022-04-02/17:56:54		prediction function is starter!!
+2022-04-02/17:56:54		prediction function is done successfully
+2022-04-02/17:59:04		prediction function is starter!!
+2022-04-02/17:59:04		prediction function is done successfully
+2022-04-02/18:56:49		prediction function is started !!
+2022-04-02/18:56:49		prediction function is starter!!
+2022-04-02/18:56:49		prediction function is done successfully
+2022-04-02/18:58:19		prediction function is started !!
+2022-04-02/18:58:19		prediction function is starter!!
+2022-04-02/18:58:19		prediction function is done successfully
+2022-04-05/15:21:52		admin_login is started
+2022-04-05/15:21:52		Error in admin_login function 
+2022-04-05/15:24:40		admin_login is started
+2022-04-05/15:24:40		Error in admin_login function 
+2022-04-05/15:29:00		admin_login is started
+2022-04-05/15:54:21		admin_login is started
+2022-04-05/15:58:52		admin_login is started
+2022-04-05/15:58:52		Error in admin_login function 
+2022-04-05/15:59:05		admin_login is started
+2022-04-05/15:59:05		Error in admin_login function 
+2022-04-05/16:00:46		admin_login is started
+2022-04-05/16:00:46		Error in admin_login function 
+2022-04-05/16:02:37		admin_login is started
+2022-04-05/16:02:37		Error in admin_login function 
+2022-04-05/16:03:10		admin_login is started
+2022-04-05/16:04:35		admin_login is started
+2022-04-05/16:04:35		Error in admin_login function 
+2022-04-05/16:05:14		admin_login is started
+2022-04-05/16:05:14		Error in admin_login function 
+2022-04-05/16:09:20		admin_login is started
+2022-04-05/16:10:24		admin_login is started
+2022-04-05/16:10:24		Error in admin_login function 
+2022-04-05/16:20:44		admin_login is started
+2022-04-05/16:23:10		admin_login is started
+2022-04-05/16:23:16		admin_login is started
+2022-04-05/16:23:20		admin_login is started
+2022-04-05/16:23:36		training function is started!!
+2022-04-05/16:23:37		training done successfully
+2022-04-05/16:25:04		admin_login is started
+2022-04-05/16:25:07		training function is started!!
+2022-04-05/16:25:08		training done successfully
+2022-04-05/16:25:09		training function is started!!
+2022-04-05/16:25:10		training done successfully
+2022-04-05/16:25:11		training function is started!!
+2022-04-05/16:25:12		training done successfully
+2022-04-05/16:25:13		training function is started!!
+2022-04-05/16:25:14		training done successfully
+2022-04-05/16:25:15		training function is started!!
+2022-04-05/16:25:16		training done successfully
+2022-04-05/16:25:18		training function is started!!
+2022-04-05/16:25:18		training done successfully
+2022-04-05/16:26:17		admin_login is started
+2022-04-05/16:26:19		training function is started!!
+2022-04-05/16:26:20		training done successfully
+2022-04-05/16:26:21		training function is started!!
+2022-04-05/16:26:22		training done successfully
+2022-04-05/16:26:24		training function is started!!
+2022-04-05/16:26:25		training done successfully
+2022-04-05/16:27:49		admin_login is started
+2022-04-05/16:27:51		training function is started!!
+2022-04-05/16:27:52		training done successfully
+2022-04-05/16:27:58		training function is started!!
+2022-04-05/16:27:59		training done successfully
+2022-04-05/16:31:23		admin_login is started
+2022-04-05/16:36:15		admin_login is started
+2022-04-05/17:04:12		admin_login is started
+2022-04-05/17:04:14		Error in admin_login function 
+2022-04-05/17:04:24		admin_login is started
+2022-04-05/17:04:26		Error in admin_login function 
+2022-04-05/17:05:11		admin_login is started
+2022-04-05/17:05:14		Error in admin_login function 
+2022-04-05/17:06:09		admin_login is started
+2022-04-05/17:06:11		training function is started!!
+2022-04-05/17:06:12		training done successfully
+2022-04-05/17:07:23		admin_login is started
+2022-04-05/17:07:25		training function is started!!
+2022-04-05/17:07:26		training done successfully
+2022-04-05/17:08:06		training function is started!!
+2022-04-05/17:08:07		training done successfully
+2022-04-05/17:36:56		admin_login is started
+2022-04-05/17:37:25		prediction function is started !!
+2022-04-05/17:37:25		prediction function is starter!!
+2022-04-05/17:37:25		prediction function is done successfully
+2022-04-05/17:38:42		admin_login is started
+2022-04-05/17:40:01		prediction function is started !!
+2022-04-05/17:40:01		prediction function is starter!!
+2022-04-05/17:40:01		prediction function is done successfully
+2022-04-06/11:54:13		admin_login is started

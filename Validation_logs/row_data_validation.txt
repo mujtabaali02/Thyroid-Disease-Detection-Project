@@ -1,0 +1,193 @@
+2022-03-30/10:56:47		replace_by_null is started!!
+2022-03-30/11:04:34		replace_by_null is started!!
+2022-03-30/11:08:28		replace_by_null is started!!
+2022-03-30/11:10:16		replace_by_null is started!!
+2022-03-30/11:14:54		replace_by_null is started!!
+2022-03-30/11:17:08		replace_by_null is started!!
+2022-03-30/11:22:49		replace_by_null is started!!
+2022-03-30/11:22:49		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/11:32:01		replace_by_null is started!!
+2022-03-30/11:32:01		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/11:34:13		replace_by_null is started!!
+2022-03-30/11:34:13		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/11:35:14		replace_by_null is started!!
+2022-03-30/11:35:14		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/11:35:14		drop_more_than_95_missing function done successfully!!
+2022-03-30/11:56:54		replace_by_null is started!!
+2022-03-30/11:56:54		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/11:56:54		drop_more_than_95_missing function done successfully!!
+2022-03-30/12:23:24		replace_by_null is started!!
+2022-03-30/12:23:24		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/12:23:24		drop_more_than_95_missing function done successfully!!
+2022-03-30/14:59:01		replace_by_null is started!!
+2022-03-30/14:59:01		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/14:59:01		drop_more_than_95_missing function done successfully!!
+2022-03-30/15:03:28		replace_by_null is started!!
+2022-03-30/15:03:28		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/15:03:28		drop_more_than_95_missing function done successfully!!
+2022-03-30/15:08:31		replace_by_null is started!!
+2022-03-30/15:08:31		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/15:08:31		drop_more_than_95_missing function done successfully!!
+2022-03-30/16:30:51		replace_by_null is started!!
+2022-03-30/16:30:51		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/16:30:51		drop_more_than_95_missing function done successfully!!
+2022-03-30/16:37:12		replace_by_null is started!!
+2022-03-30/16:37:12		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/16:37:12		drop_more_than_95_missing function done successfully!!
+2022-03-30/16:43:12		replace_by_null is started!!
+2022-03-30/16:43:12		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/16:43:12		drop_more_than_95_missing function done successfully!!
+2022-03-30/16:45:30		replace_by_null is started!!
+2022-03-30/16:45:30		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/16:45:30		drop_more_than_95_missing function done successfully!!
+2022-03-30/23:07:40		replace_by_null is started!!
+2022-03-30/23:07:40		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/23:07:40		drop_more_than_95_missing function done successfully!!
+2022-03-30/23:08:33		replace_by_null is started!!
+2022-03-30/23:08:33		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/23:08:33		drop_more_than_95_missing function done successfully!!
+2022-03-30/23:08:34		replace_by_null is started!!
+2022-03-30/23:08:34		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/23:08:34		drop_more_than_95_missing function done successfully!!
+2022-03-30/23:09:41		replace_by_null is started!!
+2022-03-30/23:09:41		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/23:09:41		drop_more_than_95_missing function done successfully!!
+2022-03-30/23:34:22		replace_by_null is started!!
+2022-03-30/23:34:22		Dataset's ? is replaced by Nan Successfully !!
+2022-03-30/23:34:22		drop_more_than_95_missing function done successfully!!
+2022-04-01/08:20:06		replace_by_null is started!!
+2022-04-02/08:17:42		replace_by_null is started!!
+2022-04-02/08:17:42		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:17:42		drop_more_than_95_missing function done successfully!!
+2022-04-02/08:17:43		replace_by_null is started!!
+2022-04-02/08:17:43		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:17:43		drop_more_than_95_missing function done successfully!!
+2022-04-02/08:19:20		replace_by_null is started!!
+2022-04-02/08:19:21		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:19:21		drop_more_than_95_missing function done successfully!!
+2022-04-02/08:19:21		replace_by_null is started!!
+2022-04-02/08:19:21		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:19:21		drop_more_than_95_missing function done successfully!!
+2022-04-02/08:22:55		replace_by_null is started!!
+2022-04-02/08:22:55		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:22:55		drop_more_than_95_missing function done successfully!!
+2022-04-02/08:22:56		replace_by_null is started!!
+2022-04-02/08:22:56		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:22:56		drop_more_than_95_missing function done successfully!!
+2022-04-02/08:32:03		replace_by_null is started!!
+2022-04-02/08:32:03		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:32:04		drop_more_than_95_missing function done successfully!!
+2022-04-02/08:32:04		replace_by_null is started!!
+2022-04-02/08:32:04		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:32:04		drop_more_than_95_missing function done successfully!!
+2022-04-02/08:34:34		replace_by_null is started!!
+2022-04-02/08:34:34		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:34:34		drop_more_than_95_missing function done successfully!!
+2022-04-02/08:34:34		replace_by_null is started!!
+2022-04-02/08:34:34		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:34:35		drop_more_than_95_missing function done successfully!!
+2022-04-02/08:52:48		replace_by_null is started!!
+2022-04-02/08:52:48		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:52:48		drop_more_than_95_missing function done successfully!!
+2022-04-02/08:52:48		replace_by_null is started!!
+2022-04-02/08:52:48		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:52:48		drop_more_than_95_missing function done successfully!!
+2022-04-02/08:58:39		replace_by_null is started!!
+2022-04-02/08:58:39		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:58:39		drop_more_than_95_missing function done successfully!!
+2022-04-02/08:58:39		replace_by_null is started!!
+2022-04-02/08:58:40		Dataset's ? is replaced by Nan Successfully !!
+2022-04-02/08:58:40		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:23:36		replace_by_null is started!!
+2022-04-05/16:23:36		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:23:36		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:23:36		replace_by_null is started!!
+2022-04-05/16:23:36		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:23:36		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:25:07		replace_by_null is started!!
+2022-04-05/16:25:07		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:25:07		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:25:07		replace_by_null is started!!
+2022-04-05/16:25:07		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:25:07		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:25:09		replace_by_null is started!!
+2022-04-05/16:25:10		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:25:10		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:25:10		replace_by_null is started!!
+2022-04-05/16:25:10		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:25:10		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:25:11		replace_by_null is started!!
+2022-04-05/16:25:11		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:25:11		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:25:12		replace_by_null is started!!
+2022-04-05/16:25:12		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:25:12		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:25:13		replace_by_null is started!!
+2022-04-05/16:25:13		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:25:13		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:25:14		replace_by_null is started!!
+2022-04-05/16:25:14		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:25:14		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:25:16		replace_by_null is started!!
+2022-04-05/16:25:16		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:25:16		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:25:16		replace_by_null is started!!
+2022-04-05/16:25:16		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:25:16		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:25:18		replace_by_null is started!!
+2022-04-05/16:25:18		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:25:18		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:25:18		replace_by_null is started!!
+2022-04-05/16:25:18		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:25:18		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:26:19		replace_by_null is started!!
+2022-04-05/16:26:19		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:26:19		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:26:19		replace_by_null is started!!
+2022-04-05/16:26:19		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:26:19		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:26:21		replace_by_null is started!!
+2022-04-05/16:26:21		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:26:21		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:26:22		replace_by_null is started!!
+2022-04-05/16:26:22		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:26:22		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:26:24		replace_by_null is started!!
+2022-04-05/16:26:24		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:26:24		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:26:24		replace_by_null is started!!
+2022-04-05/16:26:25		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:26:25		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:27:51		replace_by_null is started!!
+2022-04-05/16:27:51		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:27:51		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:27:51		replace_by_null is started!!
+2022-04-05/16:27:51		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:27:51		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:27:58		replace_by_null is started!!
+2022-04-05/16:27:58		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:27:58		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:27:58		replace_by_null is started!!
+2022-04-05/16:27:58		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:27:58		drop_more_than_95_missing function done successfully!!
+2022-04-05/16:36:18		replace_by_null is started!!
+2022-04-05/16:36:18		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/16:36:18		drop_more_than_95_missing function done successfully!!
+2022-04-05/17:06:11		replace_by_null is started!!
+2022-04-05/17:06:11		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/17:06:11		drop_more_than_95_missing function done successfully!!
+2022-04-05/17:06:11		replace_by_null is started!!
+2022-04-05/17:06:12		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/17:06:12		drop_more_than_95_missing function done successfully!!
+2022-04-05/17:07:25		replace_by_null is started!!
+2022-04-05/17:07:25		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/17:07:25		drop_more_than_95_missing function done successfully!!
+2022-04-05/17:07:26		replace_by_null is started!!
+2022-04-05/17:07:26		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/17:07:26		drop_more_than_95_missing function done successfully!!
+2022-04-05/17:08:06		replace_by_null is started!!
+2022-04-05/17:08:07		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/17:08:07		drop_more_than_95_missing function done successfully!!
+2022-04-05/17:08:07		replace_by_null is started!!
+2022-04-05/17:08:07		Dataset's ? is replaced by Nan Successfully !!
+2022-04-05/17:08:07		drop_more_than_95_missing function done successfully!!

@@ -1,0 +1,300 @@
+2022-03-30/23:07:40		X_y function is started!!
+2022-03-30/23:07:40		X_y function done successfully
+2022-03-30/23:07:40		train_test_split function is started!!
+2022-03-30/23:07:40		train_test_Split function is done successfully
+2022-03-30/23:07:40		make_a_model function is started!!
+2022-03-30/23:07:41		model build successfully!!
+2022-03-30/23:08:34		X_y function is started!!
+2022-03-30/23:08:34		X_y function done successfully
+2022-03-30/23:08:34		train_test_split function is started!!
+2022-03-30/23:08:34		train_test_Split function is done successfully
+2022-03-30/23:08:33		make_a_model function is started!!
+2022-03-30/23:08:34		model build successfully!!
+2022-03-30/23:08:34		X_y function is started!!
+2022-03-30/23:08:34		X_y function done successfully
+2022-03-30/23:08:34		train_test_split function is started!!
+2022-03-30/23:08:34		train_test_Split function is done successfully
+2022-03-30/23:08:34		make_a_model function is started!!
+2022-03-30/23:08:34		model build successfully!!
+2022-03-30/23:09:41		X_y function is started!!
+2022-03-30/23:09:41		X_y function done successfully
+2022-03-30/23:09:41		train_test_split function is started!!
+2022-03-30/23:09:41		train_test_Split function is done successfully
+2022-03-30/23:09:41		make_a_model function is started!!
+2022-03-30/23:09:41		model build successfully!!
+2022-03-30/23:34:22		X_y function is started!!
+2022-03-30/23:34:22		X_y function done successfully
+2022-03-30/23:34:22		train_test_split function is started!!
+2022-03-30/23:34:22		train_test_Split function is done successfully
+2022-03-30/23:34:22		make_a_model function is started!!
+2022-03-30/23:34:22		model build successfully!!
+2022-04-02/08:17:42		X_y function is started!!
+2022-04-02/08:17:42		X_y function done successfully
+2022-04-02/08:17:42		train_test_split function is started!!
+2022-04-02/08:17:42		train_test_Split function is done successfully
+2022-04-02/08:17:42		make_a_model function is started!!
+2022-04-02/08:17:43		model build successfully!!
+2022-04-02/08:17:43		X_y function is started!!
+2022-04-02/08:17:43		X_y function done successfully
+2022-04-02/08:17:43		train_test_split function is started!!
+2022-04-02/08:17:43		train_test_Split function is done successfully
+2022-04-02/08:17:43		make_a_model function is started!!
+2022-04-02/08:17:43		model build successfully!!
+2022-04-02/08:19:21		X_y function is started!!
+2022-04-02/08:19:21		X_y function done successfully
+2022-04-02/08:19:21		train_test_split function is started!!
+2022-04-02/08:19:21		train_test_Split function is done successfully
+2022-04-02/08:19:20		make_a_model function is started!!
+2022-04-02/08:19:21		model build successfully!!
+2022-04-02/08:19:22		X_y function is started!!
+2022-04-02/08:19:22		X_y function done successfully
+2022-04-02/08:19:22		train_test_split function is started!!
+2022-04-02/08:19:22		train_test_Split function is done successfully
+2022-04-02/08:19:21		make_a_model function is started!!
+2022-04-02/08:19:22		model build successfully!!
+2022-04-02/08:22:56		X_y function is started!!
+2022-04-02/08:22:56		X_y function done successfully
+2022-04-02/08:22:56		train_test_split function is started!!
+2022-04-02/08:22:56		train_test_Split function is done successfully
+2022-04-02/08:22:55		make_a_model function is started!!
+2022-04-02/08:22:56		model build successfully!!
+2022-04-02/08:22:56		X_y function is started!!
+2022-04-02/08:22:56		X_y function done successfully
+2022-04-02/08:22:56		train_test_split function is started!!
+2022-04-02/08:22:56		train_test_Split function is done successfully
+2022-04-02/08:22:56		make_a_model function is started!!
+2022-04-02/08:22:57		model build successfully!!
+2022-04-02/08:32:04		X_y function is started!!
+2022-04-02/08:32:04		X_y function done successfully
+2022-04-02/08:32:04		train_test_split function is started!!
+2022-04-02/08:32:04		train_test_Split function is done successfully
+2022-04-02/08:32:03		make_a_model function is started!!
+2022-04-02/08:32:04		model build successfully!!
+2022-04-02/08:32:05		X_y function is started!!
+2022-04-02/08:32:05		X_y function done successfully
+2022-04-02/08:32:05		train_test_split function is started!!
+2022-04-02/08:32:05		train_test_Split function is done successfully
+2022-04-02/08:32:04		make_a_model function is started!!
+2022-04-02/08:32:05		model build successfully!!
+2022-04-02/08:34:34		X_y function is started!!
+2022-04-02/08:34:34		X_y function done successfully
+2022-04-02/08:34:34		train_test_split function is started!!
+2022-04-02/08:34:34		train_test_Split function is done successfully
+2022-04-02/08:34:34		make_a_model function is started!!
+2022-04-02/08:34:34		model build successfully!!
+2022-04-02/08:34:35		X_y function is started!!
+2022-04-02/08:34:35		X_y function done successfully
+2022-04-02/08:34:35		train_test_split function is started!!
+2022-04-02/08:34:35		train_test_Split function is done successfully
+2022-04-02/08:34:34		make_a_model function is started!!
+2022-04-02/08:34:35		model build successfully!!
+2022-04-02/08:52:48		X_y function is started!!
+2022-04-02/08:52:48		X_y function done successfully
+2022-04-02/08:52:48		train_test_split function is started!!
+2022-04-02/08:52:48		train_test_Split function is done successfully
+2022-04-02/08:52:48		make_a_model function is started!!
+2022-04-02/08:52:48		model build successfully!!
+2022-04-02/08:52:49		X_y function is started!!
+2022-04-02/08:52:49		X_y function done successfully
+2022-04-02/08:52:49		train_test_split function is started!!
+2022-04-02/08:52:49		train_test_Split function is done successfully
+2022-04-02/08:52:48		make_a_model function is started!!
+2022-04-02/08:52:49		model build successfully!!
+2022-04-02/08:58:39		X_y function is started!!
+2022-04-02/08:58:39		X_y function done successfully
+2022-04-02/08:58:39		train_test_split function is started!!
+2022-04-02/08:58:39		train_test_Split function is done successfully
+2022-04-02/08:58:39		make_a_model function is started!!
+2022-04-02/08:58:39		model build successfully!!
+2022-04-02/08:58:40		X_y function is started!!
+2022-04-02/08:58:40		X_y function done successfully
+2022-04-02/08:58:40		train_test_split function is started!!
+2022-04-02/08:58:40		train_test_Split function is done successfully
+2022-04-02/08:58:39		make_a_model function is started!!
+2022-04-02/08:58:40		model build successfully!!
+2022-04-05/16:23:36		X_y function is started!!
+2022-04-05/16:23:36		X_y function done successfully
+2022-04-05/16:23:36		train_test_split function is started!!
+2022-04-05/16:23:36		train_test_Split function is done successfully
+2022-04-05/16:23:36		make_a_model function is started!!
+2022-04-05/16:23:36		model build successfully!!
+2022-04-05/16:23:37		X_y function is started!!
+2022-04-05/16:23:37		X_y function done successfully
+2022-04-05/16:23:37		train_test_split function is started!!
+2022-04-05/16:23:37		train_test_Split function is done successfully
+2022-04-05/16:23:36		make_a_model function is started!!
+2022-04-05/16:23:37		model build successfully!!
+2022-04-05/16:25:07		X_y function is started!!
+2022-04-05/16:25:07		X_y function done successfully
+2022-04-05/16:25:07		train_test_split function is started!!
+2022-04-05/16:25:07		train_test_Split function is done successfully
+2022-04-05/16:25:07		make_a_model function is started!!
+2022-04-05/16:25:07		model build successfully!!
+2022-04-05/16:25:08		X_y function is started!!
+2022-04-05/16:25:08		X_y function done successfully
+2022-04-05/16:25:08		train_test_split function is started!!
+2022-04-05/16:25:08		train_test_Split function is done successfully
+2022-04-05/16:25:07		make_a_model function is started!!
+2022-04-05/16:25:08		model build successfully!!
+2022-04-05/16:25:10		X_y function is started!!
+2022-04-05/16:25:10		X_y function done successfully
+2022-04-05/16:25:10		train_test_split function is started!!
+2022-04-05/16:25:10		train_test_Split function is done successfully
+2022-04-05/16:25:09		make_a_model function is started!!
+2022-04-05/16:25:10		model build successfully!!
+2022-04-05/16:25:10		X_y function is started!!
+2022-04-05/16:25:10		X_y function done successfully
+2022-04-05/16:25:10		train_test_split function is started!!
+2022-04-05/16:25:10		train_test_Split function is done successfully
+2022-04-05/16:25:10		make_a_model function is started!!
+2022-04-05/16:25:10		model build successfully!!
+2022-04-05/16:25:12		X_y function is started!!
+2022-04-05/16:25:12		X_y function done successfully
+2022-04-05/16:25:12		train_test_split function is started!!
+2022-04-05/16:25:12		train_test_Split function is done successfully
+2022-04-05/16:25:11		make_a_model function is started!!
+2022-04-05/16:25:12		model build successfully!!
+2022-04-05/16:25:12		X_y function is started!!
+2022-04-05/16:25:12		X_y function done successfully
+2022-04-05/16:25:12		train_test_split function is started!!
+2022-04-05/16:25:12		train_test_Split function is done successfully
+2022-04-05/16:25:12		make_a_model function is started!!
+2022-04-05/16:25:12		model build successfully!!
+2022-04-05/16:25:14		X_y function is started!!
+2022-04-05/16:25:14		X_y function done successfully
+2022-04-05/16:25:14		train_test_split function is started!!
+2022-04-05/16:25:14		train_test_Split function is done successfully
+2022-04-05/16:25:13		make_a_model function is started!!
+2022-04-05/16:25:14		model build successfully!!
+2022-04-05/16:25:14		X_y function is started!!
+2022-04-05/16:25:14		X_y function done successfully
+2022-04-05/16:25:14		train_test_split function is started!!
+2022-04-05/16:25:14		train_test_Split function is done successfully
+2022-04-05/16:25:14		make_a_model function is started!!
+2022-04-05/16:25:14		model build successfully!!
+2022-04-05/16:25:16		X_y function is started!!
+2022-04-05/16:25:16		X_y function done successfully
+2022-04-05/16:25:16		train_test_split function is started!!
+2022-04-05/16:25:16		train_test_Split function is done successfully
+2022-04-05/16:25:16		make_a_model function is started!!
+2022-04-05/16:25:16		model build successfully!!
+2022-04-05/16:25:16		X_y function is started!!
+2022-04-05/16:25:16		X_y function done successfully
+2022-04-05/16:25:16		train_test_split function is started!!
+2022-04-05/16:25:16		train_test_Split function is done successfully
+2022-04-05/16:25:16		make_a_model function is started!!
+2022-04-05/16:25:16		model build successfully!!
+2022-04-05/16:25:18		X_y function is started!!
+2022-04-05/16:25:18		X_y function done successfully
+2022-04-05/16:25:18		train_test_split function is started!!
+2022-04-05/16:25:18		train_test_Split function is done successfully
+2022-04-05/16:25:18		make_a_model function is started!!
+2022-04-05/16:25:18		model build successfully!!
+2022-04-05/16:25:18		X_y function is started!!
+2022-04-05/16:25:18		X_y function done successfully
+2022-04-05/16:25:18		train_test_split function is started!!
+2022-04-05/16:25:18		train_test_Split function is done successfully
+2022-04-05/16:25:18		make_a_model function is started!!
+2022-04-05/16:25:18		model build successfully!!
+2022-04-05/16:26:19		X_y function is started!!
+2022-04-05/16:26:19		X_y function done successfully
+2022-04-05/16:26:19		train_test_split function is started!!
+2022-04-05/16:26:19		train_test_Split function is done successfully
+2022-04-05/16:26:19		make_a_model function is started!!
+2022-04-05/16:26:19		model build successfully!!
+2022-04-05/16:26:20		X_y function is started!!
+2022-04-05/16:26:20		X_y function done successfully
+2022-04-05/16:26:20		train_test_split function is started!!
+2022-04-05/16:26:20		train_test_Split function is done successfully
+2022-04-05/16:26:19		make_a_model function is started!!
+2022-04-05/16:26:20		model build successfully!!
+2022-04-05/16:26:21		X_y function is started!!
+2022-04-05/16:26:21		X_y function done successfully
+2022-04-05/16:26:21		train_test_split function is started!!
+2022-04-05/16:26:21		train_test_Split function is done successfully
+2022-04-05/16:26:21		make_a_model function is started!!
+2022-04-05/16:26:22		model build successfully!!
+2022-04-05/16:26:22		X_y function is started!!
+2022-04-05/16:26:22		X_y function done successfully
+2022-04-05/16:26:22		train_test_split function is started!!
+2022-04-05/16:26:22		train_test_Split function is done successfully
+2022-04-05/16:26:22		make_a_model function is started!!
+2022-04-05/16:26:22		model build successfully!!
+2022-04-05/16:26:24		X_y function is started!!
+2022-04-05/16:26:24		X_y function done successfully
+2022-04-05/16:26:24		train_test_split function is started!!
+2022-04-05/16:26:24		train_test_Split function is done successfully
+2022-04-05/16:26:24		make_a_model function is started!!
+2022-04-05/16:26:24		model build successfully!!
+2022-04-05/16:26:25		X_y function is started!!
+2022-04-05/16:26:25		X_y function done successfully
+2022-04-05/16:26:25		train_test_split function is started!!
+2022-04-05/16:26:25		train_test_Split function is done successfully
+2022-04-05/16:26:24		make_a_model function is started!!
+2022-04-05/16:26:25		model build successfully!!
+2022-04-05/16:27:51		X_y function is started!!
+2022-04-05/16:27:51		X_y function done successfully
+2022-04-05/16:27:51		train_test_split function is started!!
+2022-04-05/16:27:51		train_test_Split function is done successfully
+2022-04-05/16:27:51		make_a_model function is started!!
+2022-04-05/16:27:51		model build successfully!!
+2022-04-05/16:27:52		X_y function is started!!
+2022-04-05/16:27:52		X_y function done successfully
+2022-04-05/16:27:52		train_test_split function is started!!
+2022-04-05/16:27:52		train_test_Split function is done successfully
+2022-04-05/16:27:51		make_a_model function is started!!
+2022-04-05/16:27:52		model build successfully!!
+2022-04-05/16:27:58		X_y function is started!!
+2022-04-05/16:27:58		X_y function done successfully
+2022-04-05/16:27:58		train_test_split function is started!!
+2022-04-05/16:27:58		train_test_Split function is done successfully
+2022-04-05/16:27:58		make_a_model function is started!!
+2022-04-05/16:27:58		model build successfully!!
+2022-04-05/16:27:59		X_y function is started!!
+2022-04-05/16:27:59		X_y function done successfully
+2022-04-05/16:27:59		train_test_split function is started!!
+2022-04-05/16:27:59		train_test_Split function is done successfully
+2022-04-05/16:27:58		make_a_model function is started!!
+2022-04-05/16:27:59		model build successfully!!
+2022-04-05/16:36:18		X_y function is started!!
+2022-04-05/16:36:18		X_y function done successfully
+2022-04-05/16:36:18		train_test_split function is started!!
+2022-04-05/16:36:18		train_test_Split function is done successfully
+2022-04-05/16:36:18		make_a_model function is started!!
+2022-04-05/16:36:18		model build successfully!!
+2022-04-05/17:06:11		X_y function is started!!
+2022-04-05/17:06:11		X_y function done successfully
+2022-04-05/17:06:11		train_test_split function is started!!
+2022-04-05/17:06:11		train_test_Split function is done successfully
+2022-04-05/17:06:11		make_a_model function is started!!
+2022-04-05/17:06:11		model build successfully!! training_time : 0.9511363636363637  Testing_time : 0.9511363636363637
+2022-04-05/17:06:12		X_y function is started!!
+2022-04-05/17:06:12		X_y function done successfully
+2022-04-05/17:06:12		train_test_split function is started!!
+2022-04-05/17:06:12		train_test_Split function is done successfully
+2022-04-05/17:06:11		make_a_model function is started!!
+2022-04-05/17:06:12		model build successfully!! training_time : 0.9511363636363637  Testing_time : 0.9511363636363637
+2022-04-05/17:07:26		X_y function is started!!
+2022-04-05/17:07:26		X_y function done successfully
+2022-04-05/17:07:26		train_test_split function is started!!
+2022-04-05/17:07:26		train_test_Split function is done successfully
+2022-04-05/17:07:25		make_a_model function is started!!
+2022-04-05/17:07:26		model build successfully!! training_time : 0.9511363636363637  Testing_time : 0.9549469964664311
+2022-04-05/17:07:26		X_y function is started!!
+2022-04-05/17:07:26		X_y function done successfully
+2022-04-05/17:07:26		train_test_split function is started!!
+2022-04-05/17:07:26		train_test_Split function is done successfully
+2022-04-05/17:07:26		make_a_model function is started!!
+2022-04-05/17:07:26		model build successfully!! training_time : 0.9511363636363637  Testing_time : 0.9549469964664311
+2022-04-05/17:08:07		X_y function is started!!
+2022-04-05/17:08:07		X_y function done successfully
+2022-04-05/17:08:07		train_test_split function is started!!
+2022-04-05/17:08:07		train_test_Split function is done successfully
+2022-04-05/17:08:06		make_a_model function is started!!
+2022-04-05/17:08:07		model build successfully!! training_time : 0.9511363636363637  Testing_time : 0.9549469964664311
+2022-04-05/17:08:07		X_y function is started!!
+2022-04-05/17:08:07		X_y function done successfully
+2022-04-05/17:08:07		train_test_split function is started!!
+2022-04-05/17:08:07		train_test_Split function is done successfully
+2022-04-05/17:08:07		make_a_model function is started!!
+2022-04-05/17:08:07		model build successfully!! training_time : 0.9511363636363637  Testing_time : 0.9549469964664311

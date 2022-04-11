@@ -1,0 +1,106 @@
+2022-03-30/16:30:51		feature selection is started!!
+2022-03-30/16:30:51		feature_selection done successfully
+2022-03-30/16:37:12		feature selection is started!!
+2022-03-30/16:37:12		feature_selection done successfully
+2022-03-30/16:43:13		feature selection is started!!
+2022-03-30/16:43:13		feature_selection done successfully
+2022-03-30/16:45:31		feature selection is started!!
+2022-03-30/16:45:31		feature_selection done successfully
+2022-03-30/23:07:40		feature selection is started!!
+2022-03-30/23:07:40		feature_selection done successfully
+2022-03-30/23:08:34		feature selection is started!!
+2022-03-30/23:08:34		feature_selection done successfully
+2022-03-30/23:08:34		feature selection is started!!
+2022-03-30/23:08:34		feature_selection done successfully
+2022-03-30/23:09:41		feature selection is started!!
+2022-03-30/23:09:41		feature_selection done successfully
+2022-03-30/23:34:22		feature selection is started!!
+2022-03-30/23:34:22		feature_selection done successfully
+2022-04-02/08:17:42		feature selection is started!!
+2022-04-02/08:17:42		feature_selection done successfully
+2022-04-02/08:17:43		feature selection is started!!
+2022-04-02/08:17:43		feature_selection done successfully
+2022-04-02/08:19:21		feature selection is started!!
+2022-04-02/08:19:21		feature_selection done successfully
+2022-04-02/08:19:22		feature selection is started!!
+2022-04-02/08:19:22		feature_selection done successfully
+2022-04-02/08:22:56		feature selection is started!!
+2022-04-02/08:22:56		feature_selection done successfully
+2022-04-02/08:22:56		feature selection is started!!
+2022-04-02/08:22:56		feature_selection done successfully
+2022-04-02/08:32:04		feature selection is started!!
+2022-04-02/08:32:04		feature_selection done successfully
+2022-04-02/08:32:05		feature selection is started!!
+2022-04-02/08:32:05		feature_selection done successfully
+2022-04-02/08:34:34		feature selection is started!!
+2022-04-02/08:34:34		feature_selection done successfully
+2022-04-02/08:34:35		feature selection is started!!
+2022-04-02/08:34:35		feature_selection done successfully
+2022-04-02/08:52:48		feature selection is started!!
+2022-04-02/08:52:48		feature_selection done successfully
+2022-04-02/08:52:49		feature selection is started!!
+2022-04-02/08:52:49		feature_selection done successfully
+2022-04-02/08:58:39		feature selection is started!!
+2022-04-02/08:58:39		feature_selection done successfully
+2022-04-02/08:58:40		feature selection is started!!
+2022-04-02/08:58:40		feature_selection done successfully
+2022-04-05/16:23:36		feature selection is started!!
+2022-04-05/16:23:36		feature_selection done successfully
+2022-04-05/16:23:37		feature selection is started!!
+2022-04-05/16:23:37		feature_selection done successfully
+2022-04-05/16:25:07		feature selection is started!!
+2022-04-05/16:25:07		feature_selection done successfully
+2022-04-05/16:25:07		feature selection is started!!
+2022-04-05/16:25:07		feature_selection done successfully
+2022-04-05/16:25:10		feature selection is started!!
+2022-04-05/16:25:10		feature_selection done successfully
+2022-04-05/16:25:10		feature selection is started!!
+2022-04-05/16:25:10		feature_selection done successfully
+2022-04-05/16:25:12		feature selection is started!!
+2022-04-05/16:25:12		feature_selection done successfully
+2022-04-05/16:25:12		feature selection is started!!
+2022-04-05/16:25:12		feature_selection done successfully
+2022-04-05/16:25:14		feature selection is started!!
+2022-04-05/16:25:14		feature_selection done successfully
+2022-04-05/16:25:14		feature selection is started!!
+2022-04-05/16:25:14		feature_selection done successfully
+2022-04-05/16:25:16		feature selection is started!!
+2022-04-05/16:25:16		feature_selection done successfully
+2022-04-05/16:25:16		feature selection is started!!
+2022-04-05/16:25:16		feature_selection done successfully
+2022-04-05/16:25:18		feature selection is started!!
+2022-04-05/16:25:18		feature_selection done successfully
+2022-04-05/16:25:18		feature selection is started!!
+2022-04-05/16:25:18		feature_selection done successfully
+2022-04-05/16:26:19		feature selection is started!!
+2022-04-05/16:26:19		feature_selection done successfully
+2022-04-05/16:26:19		feature selection is started!!
+2022-04-05/16:26:19		feature_selection done successfully
+2022-04-05/16:26:21		feature selection is started!!
+2022-04-05/16:26:21		feature_selection done successfully
+2022-04-05/16:26:22		feature selection is started!!
+2022-04-05/16:26:22		feature_selection done successfully
+2022-04-05/16:26:24		feature selection is started!!
+2022-04-05/16:26:24		feature_selection done successfully
+2022-04-05/16:26:25		feature selection is started!!
+2022-04-05/16:26:25		feature_selection done successfully
+2022-04-05/16:27:51		feature selection is started!!
+2022-04-05/16:27:51		feature_selection done successfully
+2022-04-05/16:27:52		feature selection is started!!
+2022-04-05/16:27:52		feature_selection done successfully
+2022-04-05/16:27:58		feature selection is started!!
+2022-04-05/16:27:58		feature_selection done successfully
+2022-04-05/16:27:59		feature selection is started!!
+2022-04-05/16:27:59		feature_selection done successfully
+2022-04-05/17:06:11		feature selection is started!!
+2022-04-05/17:06:11		feature_selection done successfully
+2022-04-05/17:06:12		feature selection is started!!
+2022-04-05/17:06:12		feature_selection done successfully
+2022-04-05/17:07:26		feature selection is started!!
+2022-04-05/17:07:26		feature_selection done successfully
+2022-04-05/17:07:26		feature selection is started!!
+2022-04-05/17:07:26		feature_selection done successfully
+2022-04-05/17:08:07		feature selection is started!!
+2022-04-05/17:08:07		feature_selection done successfully
+2022-04-05/17:08:07		feature selection is started!!
+2022-04-05/17:08:07		feature_selection done successfully

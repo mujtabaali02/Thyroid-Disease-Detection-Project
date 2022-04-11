@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<!--    <link rel="stylesheet" href="static/style.css">-->
+<!--      <link rel="stylesheet" href={{url_for('static',filename='style1.css')}}>-->
+<!--    <link rel="stylesheet" href={{url_for('static',filename='style1.css')}}>-->
+  </head>
+  <body>
+  <div class="container">
+
+<!--  navbar-->
+
+  <nav class="navbar navbar-light bg-light">
+  <div class="container-fluid">
+<!--     <a style="padding-left: 20px; text-align:center;" href="train.html">Click for training page</a>-->
+    <a class="navbar-brand" href="images.png">
+      <img src="static/thyroid_pic.jpg" alt="" width="50" height="34">
+      <strong><i>Thyroid Disease Project</i></strong>
+    </a>
+  </div>
+    <center> <a style="padding-left: 20px;" href="/training">Click for training</a></center>
+</nav>
+<!--    end navbar-->
+
+<!--    form -->
+  <div class="modal modal-signin position-static d-block bg-secondary py-5" tabindex="-1" role="dialog" id="modalSignin">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content rounded-5 shadow">
+      <div class="modal-header p-5 pb-4 border-bottom-0">
+        <!-- <h5 class="modal-title">Modal title</h5> -->
+        <h2 class="fw-bold mb-0"><i>ML Project</i></h2>
+      </div>
+
+      <div class="modal-body p-5 pt-0">
+        <form action="/prediction" method="POST">
+          <div class="form-floating mb-3">
+            <input type="text" class="form-control rounded-4" id="floatingInput" placeholder="Age"  name="age" required>
+            <label for="floatingInput">Age</label>
+          </div>
+
+          <div class="form-floating mb-3">
+            <input type="text" class="form-control rounded-4" id="floatingPassword1" placeholder="tsh" name="tsh" required>
+            <label for="floatingPassword1">TSH</label>
+          </div>
+
+          <div class="form-floating mb-3">
+            <input type="text" class="form-control rounded-4" id="floatingPassword2" placeholder="t3" name="t3" required>
+            <label for="floatingPassword2">T3</label>
+          </div>
+
+          <div class="form-floating mb-3">
+            <input type="text" class="form-control rounded-4" id="floatingPassword3" placeholder="tt4" name="tt4" required>
+            <label for="floatingPassword3">TT4</label>
+          </div>
+
+          <div class="form-floating mb-3">
+            <input type="text" class="form-control rounded-4" id="floatingPassword4" placeholder="fti" name="fti" required>
+            <label for="floatingPassword4">FTI</label>
+          </div>
+
+          <div class="form-floating mb-3">
+            <input type="text" class="form-control rounded-4" id="floatingPassword5" placeholder="Sex_M" name="sex_m" required>
+            <label for="floatingPassword5">Sex_M</label>
+          </div>
+
+          <div class="form-floating mb-3">
+            <input type="text" class="form-control rounded-4" id="floatingPassword6" placeholder="t3_measured_t" name="t3_measured_t" required>
+            <label for="floatingPassword6">T3_Measured_T</label>
+          </div>
+
+          <div class="form-floating mb-3">
+            <input type="text" class="form-control rounded-4" id="floatingPassword7" placeholder="referral_source_SVI" name="referral_source_svi" required>
+            <label for="floatingPassword7">referral_source_SVI</label>
+          </div>
+
+          <div class="form-floating mb-3">
+            <input type="text" class="form-control rounded-4" id="floatingPassword8" placeholder="referral_source_other" name="referral_source_other" required>
+            <label for="floatingPassword8">referral_source_other</label>
+          </div>
+
+
+          <button class="w-100 mb-2 btn btn-lg rounded-4 btn-primary" type="submit">Predict</button>
+        </form>
+<!--        {{values}}-->
+      </div>
+    </div>
+  </div>
+</div>
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    -->
+  </div>
+  </body>
+</html>
