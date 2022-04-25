@@ -40,5 +40,5 @@ import pandas as pd
 
 
 import pandas as pd
-df=pd.read_csv("Datasets/final_data.csv")
+df=pd.read_csv("Datasets/hypothyroid.csv")
 print(df.shape)

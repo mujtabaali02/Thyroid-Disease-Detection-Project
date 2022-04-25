@@ -348,3 +348,27 @@
 2022-04-05/17:08:07		object_into_float done successfully
 2022-04-05/17:08:07		Encoding is started!!
 2022-04-05/17:08:07		Encoded function done successfully!!
+2022-04-11/11:55:30		miss_value_imputation function is started!!
+2022-04-11/11:55:30		miss_value_imputated successfully by miss_value_imputation function!!
+2022-04-11/11:55:30		object_type_into_float started!!
+2022-04-11/11:55:30		object_into_float done successfully
+2022-04-11/11:55:30		Encoding is started!!
+2022-04-11/11:55:30		Encoded function done successfully!!
+2022-04-11/11:55:31		miss_value_imputation function is started!!
+2022-04-11/11:55:31		miss_value_imputated successfully by miss_value_imputation function!!
+2022-04-11/11:55:31		object_type_into_float started!!
+2022-04-11/11:55:31		object_into_float done successfully
+2022-04-11/11:55:31		Encoding is started!!
+2022-04-11/11:55:31		Encoded function done successfully!!
+2022-04-11/12:04:13		miss_value_imputation function is started!!
+2022-04-11/12:04:13		miss_value_imputated successfully by miss_value_imputation function!!
+2022-04-11/12:04:13		object_type_into_float started!!
+2022-04-11/12:04:13		object_into_float done successfully
+2022-04-11/12:04:13		Encoding is started!!
+2022-04-11/12:04:13		Encoded function done successfully!!
+2022-04-11/12:04:14		miss_value_imputation function is started!!
+2022-04-11/12:04:14		miss_value_imputated successfully by miss_value_imputation function!!
+2022-04-11/12:04:14		object_type_into_float started!!
+2022-04-11/12:04:14		object_into_float done successfully
+2022-04-11/12:04:14		Encoding is started!!
+2022-04-11/12:04:14		Encoded function done successfully!!

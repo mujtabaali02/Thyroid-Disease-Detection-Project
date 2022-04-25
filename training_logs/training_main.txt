@@ -255,3 +255,19 @@
 2022-04-05/17:08:07		replace_by_null is called
 2022-04-05/17:08:07		drop_more_than_95 function is called
 2022-04-05/17:08:07		Missing Value imputation function is called
+2022-04-11/11:55:30		train_validation_data function is started!!
+2022-04-11/11:55:30		replace_by_null is called
+2022-04-11/11:55:30		drop_more_than_95 function is called
+2022-04-11/11:55:30		Missing Value imputation function is called
+2022-04-11/11:55:30		train_validation_data function is started!!
+2022-04-11/11:55:31		replace_by_null is called
+2022-04-11/11:55:31		drop_more_than_95 function is called
+2022-04-11/11:55:31		Missing Value imputation function is called
+2022-04-11/12:04:12		train_validation_data function is started!!
+2022-04-11/12:04:13		replace_by_null is called
+2022-04-11/12:04:13		drop_more_than_95 function is called
+2022-04-11/12:04:13		Missing Value imputation function is called
+2022-04-11/12:04:13		train_validation_data function is started!!
+2022-04-11/12:04:14		replace_by_null is called
+2022-04-11/12:04:14		drop_more_than_95 function is called
+2022-04-11/12:04:14		Missing Value imputation function is called

@@ -106,3 +106,22 @@
 2022-04-05/17:40:01		prediction function is starter!!
 2022-04-05/17:40:01		prediction function is done successfully
 2022-04-06/11:54:13		admin_login is started
+2022-04-11/11:48:57		admin_login is started
+2022-04-11/11:53:59		admin_login is started
+2022-04-11/11:54:06		admin_login is started
+2022-04-11/11:55:29		training function is started!!
+2022-04-11/11:55:31		training done successfully
+2022-04-11/12:03:36		admin_login is started
+2022-04-11/12:04:04		prediction function is started !!
+2022-04-11/12:04:04		prediction function is starter!!
+2022-04-11/12:04:04		prediction function is done successfully
+2022-04-11/12:04:12		training function is started!!
+2022-04-11/12:04:14		training done successfully
+2022-04-25/09:14:02		admin_login is started
+2022-04-25/09:15:43		prediction function is started !!
+2022-04-25/09:15:43		prediction function is starter!!
+2022-04-25/09:15:43		prediction function is done successfully
+2022-04-25/09:16:55		prediction function is started !!
+2022-04-25/09:16:55		prediction function is starter!!
+2022-04-25/09:16:55		prediction function is done successfully
+2022-04-25/09:46:37		admin_login is started

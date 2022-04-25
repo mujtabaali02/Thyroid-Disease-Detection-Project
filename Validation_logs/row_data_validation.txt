@@ -191,3 +191,15 @@
 2022-04-05/17:08:07		replace_by_null is started!!
 2022-04-05/17:08:07		Dataset's ? is replaced by Nan Successfully !!
 2022-04-05/17:08:07		drop_more_than_95_missing function done successfully!!
+2022-04-11/11:55:30		replace_by_null is started!!
+2022-04-11/11:55:30		Dataset's ? is replaced by Nan Successfully !!
+2022-04-11/11:55:30		drop_more_than_95_missing function done successfully!!
+2022-04-11/11:55:30		replace_by_null is started!!
+2022-04-11/11:55:31		Dataset's ? is replaced by Nan Successfully !!
+2022-04-11/11:55:31		drop_more_than_95_missing function done successfully!!
+2022-04-11/12:04:12		replace_by_null is started!!
+2022-04-11/12:04:13		Dataset's ? is replaced by Nan Successfully !!
+2022-04-11/12:04:13		drop_more_than_95_missing function done successfully!!
+2022-04-11/12:04:13		replace_by_null is started!!
+2022-04-11/12:04:14		Dataset's ? is replaced by Nan Successfully !!
+2022-04-11/12:04:14		drop_more_than_95_missing function done successfully!!

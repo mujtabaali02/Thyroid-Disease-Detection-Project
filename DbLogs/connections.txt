@@ -155,3 +155,27 @@
 2022-04-05/17:40:01		insert_on_table done successfully
 2022-04-06/11:54:13		connection function is started!!
 2022-04-06/11:54:14		Connected Successfully
+2022-04-11/11:48:57		connection function is started!!
+2022-04-11/11:48:57		Connected Successfully
+2022-04-11/11:53:59		connection function is started!!
+2022-04-11/11:53:59		Connected Successfully
+2022-04-11/11:54:06		connection function is started!!
+2022-04-11/11:54:06		Connected Successfully
+2022-04-11/12:03:36		connection function is started!!
+2022-04-11/12:03:36		Connected Successfully
+2022-04-11/12:04:04		connection function is started!!
+2022-04-11/12:04:04		Connected Successfully
+2022-04-11/12:04:04		insert_on_table is started!!
+2022-04-11/12:04:04		insert_on_table done successfully
+2022-04-25/09:14:02		connection function is started!!
+2022-04-25/09:14:02		Connected Successfully
+2022-04-25/09:15:43		connection function is started!!
+2022-04-25/09:15:43		Connected Successfully
+2022-04-25/09:15:43		insert_on_table is started!!
+2022-04-25/09:15:43		insert_on_table done successfully
+2022-04-25/09:16:55		connection function is started!!
+2022-04-25/09:16:55		Connected Successfully
+2022-04-25/09:16:55		insert_on_table is started!!
+2022-04-25/09:16:55		insert_on_table done successfully
+2022-04-25/09:46:37		connection function is started!!
+2022-04-25/09:46:37		Connected Successfully
